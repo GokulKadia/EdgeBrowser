@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\bin\Debug\EdgeBrowser.exe.config
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\bin\Debug\EdgeBrowser.exe
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\bin\Debug\EdgeBrowser.pdb
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\obj\Debug\EdgeBrowser.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\obj\Debug\EdgeBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\obj\Debug\EdgeBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\obj\Debug\EdgeBrowser.exe
+C:\Users\Admin\Desktop\BIOS Setting\EdgeBrowser\EdgeBrowser\obj\Debug\EdgeBrowser.pdb
